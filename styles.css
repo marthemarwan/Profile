@@ -141,7 +141,7 @@ h2 {
 /* Responsive Design */
 .extra-info {
     width: 80%;
-    right: 5%; /* Change this value to shift slightly to the right */
+    left: 5%; /* Change this value to shift slightly to the right */
 }
     .profile-section {
         flex-direction: column;
