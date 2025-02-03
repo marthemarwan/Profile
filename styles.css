@@ -142,9 +142,9 @@ h2 {
 @media (max-width: 768px) {
     .container {
         width: 90%;
-        margin-left: 10px; /* Moves the container slightly to the right */
+        
     }
-}
+
     .profile-section {
         flex-direction: column;
         text-align: center;
